@@ -9,3 +9,6 @@ Footer
 
 Trending Near You
 ![Screenshot 2024-01-13 020601](https://github.com/azadraza007/zee5Cinema/assets/136258093/cc0d6ee8-5b06-4253-98ff-413edf9e0dc3)
+
+Zee5 TV Shows
+![Screenshot 2024-01-13 020653](https://github.com/azadraza007/zee5Cinema/assets/136258093/8987fd0a-f977-41e4-8cc4-9d3169e62377)
