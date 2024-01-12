@@ -6,3 +6,6 @@ Login Page
 
 Footer
 ![Screenshot 2024-01-13 020323](https://github.com/azadraza007/zee5Cinema/assets/136258093/cdaeb4d9-e80f-46ee-8ece-a08dae9daf99)
+
+Trending Near You
+![Screenshot 2024-01-13 020601](https://github.com/azadraza007/zee5Cinema/assets/136258093/cc0d6ee8-5b06-4253-98ff-413edf9e0dc3)
